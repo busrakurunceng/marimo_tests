@@ -52,7 +52,6 @@ wheels/
 .marimo/
 
 # Data files
-*.csv
 *.xlsx
 *.xls
 *.parquet
