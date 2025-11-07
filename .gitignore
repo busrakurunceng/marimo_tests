@@ -1,0 +1,73 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.Python
+.venv/
+venv/
+env/
+ENV/
+build/
+dist/
+pip-wheel-metadata/
+*.log
+.mypy_cache/
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+__marimo__/session/
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Marimo
+.marimo/
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.parquet
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
